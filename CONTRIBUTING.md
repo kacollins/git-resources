@@ -12,5 +12,6 @@
 * Create a pull request https://help.github.com/articles/using-pull-requests/
   * Create a pull request to propose and collaborate on changes to a repository. 
   * Click the "New Pull Request" button.
+  * Hello, I like birds.
 
 ### You could start by adding some links to the Readme or by adding more information here!
