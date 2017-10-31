@@ -7,3 +7,5 @@ Here's a good series of short videos on GitHub: https://egghead.io/courses/how-t
 
 This is a quote from Jessica: "This video was very helpful in understanding the benefits of Git:
 https://git-scm.com/video/what-is-git ".
+
+The Youtube channel, Traversy Media, created a crash course on Git: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1561s
