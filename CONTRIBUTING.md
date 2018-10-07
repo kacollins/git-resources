@@ -1,6 +1,6 @@
 ### Here's how to contribute:
 * Create a GitHub account if you don't have one.
-* Fork the repository. https://help.github.com/articles/fork-a-repo/
+* Fork the repository = https://help.github.com/articles/fork-a-repo/
   * Click the Fork button in the upper right corner of the screen.
   * This will copy the repo to your account and you will then be in your copy of the repository.
 * Make some changes.
