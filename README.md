@@ -7,3 +7,5 @@ Here's a good series of short videos on GitHub: https://egghead.io/courses/how-t
 
 This is a quote from Jessica: "This video was very helpful in understanding the benefits of Git:
 https://git-scm.com/video/what-is-git ".
+
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here: https://git-scm.com/book/en/v2
