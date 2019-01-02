@@ -14,4 +14,4 @@
   * Click the "New Pull Request" button.
 
 ### You could start by adding some links to the Readme or by adding more information here!
-* The group is very informative, helpful and meet at a good time, you should be here in person.
+* This is the first time i am using github and it is amazing!!!
