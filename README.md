@@ -15,3 +15,5 @@ The Youtube channel, Traversy Media, created a crash course on Git: https://www.
 Techlahoma is a great resource for anyone who wants to break into tech.
 
 Visual learners - check out this animated interface for learning how to use Git! --> http://learngitbranching.js.org
+
+Here is a git cheat sheet distributed by Git-Hub https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
