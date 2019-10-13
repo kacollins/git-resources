@@ -9,3 +9,5 @@ This is a quote from Jessica: "This video was very helpful in understanding the 
 https://git-scm.com/video/what-is-git ".
 
 The Youtube channel, Traversy Media, created a crash course on Git: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1561s
+
+https://pythonbytes.fm/episodes/show/133/github-sponsors-the-model-open-source-has-been-waiting-for
