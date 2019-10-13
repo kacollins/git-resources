@@ -12,8 +12,10 @@ The entire Pro Git book, written by Scott Chacon and Ben Straub and published by
 
 The Youtube channel, Traversy Media, created a crash course on Git: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1561s
 
-Techlahoma is a great resource for anyone who wants to break into tech.
+Techlahoma is a great resource for anyone who wants to break into tech. https://www.techlahoma.org/
 
 Visual learners - check out this animated interface for learning how to use Git! --> http://learngitbranching.js.org
+
+Here is a git cheat sheet distributed by Git-Hub https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
 
 Top 5 Free Courses to Learn Git and Github — Best of Lot https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
