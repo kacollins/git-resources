@@ -17,4 +17,3 @@
 * This is the first time i am using github and it is amazing!!!
 * Anyone else love the artwork for this years Hacktoberfest?! I want that t-shirt! Check it out at https://hacktoberfest.digitalocean.com/
 
-*I'm loving the opportunity to meet more of the tech community here in Oklahoma.  More and more, I'm wanting to become a part of it.
