@@ -21,9 +21,4 @@
   * At the bottom make sure to add a title and description about your changes
   * Once everything is set click Create Pull Requests
 
-### You could start by adding some links to the Readme or by adding more information here!
-* This is the first time i am using github and it is amazing!!!
-* Anyone else love the artwork for this years Hacktoberfest?! I want that t-shirt! Check it out at https://hacktoberfest.digitalocean.com/
-* I'm loving this!
-* Jalen Hurts stats for 2019 so far: YDS-1,758  TD-17  INT-3  QBR-94.9 
-* Here is a link to the Techlahoma website: https://www.techlahoma.org/
+### You could start by adding some links to the Readme or by improving this instructions!
