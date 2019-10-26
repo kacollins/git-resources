@@ -26,3 +26,5 @@ Here is a git cheat sheet distributed by Git-Hub https://github.github.com/train
 Top 5 Free Courses to Learn Git and Github — Best of Lot https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
 
 Learn Git one command at a time http://gitready.com/
+
+https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
