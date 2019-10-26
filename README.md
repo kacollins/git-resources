@@ -28,3 +28,5 @@ Top 5 Free Courses to Learn Git and Github — Best of Lot https://hackernoo
 Learn Git one command at a time http://gitready.com/
 
 https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
+  
+Read this blog post it was very helpful. https://dev.to/summersetwren/what-is-git-cji
