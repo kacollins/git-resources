@@ -16,7 +16,7 @@ https://pythonbytes.fm/episodes/show/133/github-sponsors-the-model-open-source-h
 
 
 https://learntocodewith.me/tutorials/github-pages/
-=======
+
 Techlahoma is a great resource for anyone who wants to break into tech. https://www.techlahoma.org/
 
 Visual learners - check out this animated interface for learning how to use Git! --> http://learngitbranching.js.org
