@@ -13,7 +13,7 @@
   * Create a pull request to propose and collaborate on changes to a repository. 
   * Click the "New Pull Request" button.
 * Create a pull request from a forked repository https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
-  * Navigate to the original repo
+  * Navigate to the original repository
   * To the right of the branch drop down click new pull request
   * Click compare across forks
   * The base fork is the fork you are merging the changes INTO
