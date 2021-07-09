@@ -9,8 +9,8 @@
   * Click "Preview changes" to check your work.
   * Enter a short commit message in the textbox under the "Commit changes" heading.
   * Click the "Commit changes" button.
-* Create a pull request https://help.github.com/articles/using-pull-requests/
-  * Create a pull request to propose and collaborate on changes to a repository. 
+* Create a pull request (see Github's help guide <a href="https://help.github.com/articles/using-pull-requests/">here.</a>
+  * Create a pull request to propose and collaborate on changes to a repository.
   * Click the "New Pull Request" button.
 * Create a pull request from a forked repository https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
   * Navigate to the original repository
