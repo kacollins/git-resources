@@ -8,6 +8,8 @@ Here's a good series of short videos on GitHub: <a href="https://egghead.io/cour
 This is a quote from Jessica: "This video was very helpful in understanding the benefits of Git":
 <a href="https://git-scm.com/video/what-is-git">What is Git?</a>
 
+Watch this short video to know some history about Git and GitHub as well as their differences: <a href="https://www.youtube.com/watch?v=1h9_cB9mPT8&t=13s">History between Git and GitHub</a>
+
 The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here: <a href="https://git-scm.com/book/en/v2">Pro Git Book</a>
 
 The Youtube channel, Traversy Media, created a crash course on Git: <a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1561s">Git Crash Course</a>
