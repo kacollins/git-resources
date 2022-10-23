@@ -1,5 +1,5 @@
 ### Here's how to contribute:
-* Create a GitHub account if you don't have one. <a href="https://github.com/signup">Sign Up Here</a>.
+* Create a GitHub account if you don't have one. <a href="https://github.com/signup">Sign up here</a>.
 * Fork the repository (see GitHub's help guide <a href="https://help.github.com/articles/fork-a-repo/">here</a>).
   * Click the Fork button in the upper right corner of the screen.
   * This will copy the repo to your account and you will then be in your copy of the repository.
