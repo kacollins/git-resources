@@ -3,6 +3,7 @@
 * Fork the repository = https://help.github.com/articles/fork-a-repo/
   * Click the Fork button in the upper right corner of the screen.
   * This will copy the repo to your account and you will then be in your copy of the repository.
+  * If you would like to make changes to markdown files and code in a terminal of your choice outside of GitHub, download Git Bash here: https://git-scm.com/download/win
 * Make some changes.
   * Open a markdown file (this one or readme.md) and click the pencil icon to edit it.
   * Add or change some text.
