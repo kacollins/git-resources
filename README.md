@@ -1,7 +1,7 @@
 # git-resources
 Resources for learning about Git and GitHub
 
-# information about GIT
+# Information about Git
 
 This is a good introduction to Git: <a href="https://try.github.io/">Try GitHub</a>
 
