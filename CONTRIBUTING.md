@@ -9,6 +9,8 @@
   * Click "Preview changes" to check your work.
   * Enter a short commit message in the textbox under the "Commit changes" heading.
   * Click the "Commit changes" button.
+* Changing a Commit Message
+  * If a commit message contains unclear, incorrect, or sensitive information, you can amend it locally and push a new commit with a new message to GitHub. You can also     change a commit message to add missing information (see GitHub's help guide <a href="https://docs.github.com/en/pull-requests/committing-changes-to-your-                 project/creating-and-editing-commits/changing-a-commit-message"></a>.
 * Create a pull request (see GitHub's help guide <a href="https://help.github.com/articles/using-pull-requests/">here</a>).
   * Create a pull request to propose and collaborate on changes to a repository.
   * Click the "New Pull Request" button.
