@@ -6,7 +6,7 @@
   * If you would like to make changes to markdown files and code in a terminal of your choice outside of GitHub, download Git Bash here: https://git-scm.com/download/win
 * Make some changes.
   * Open a markdown file (this one or readme.md) and click the pencil icon to edit it.
-  * Add or change some text.
+  * Add or change some text (see GitHub's guide to formatting and syntax <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">here</a>).
   * Click "Preview changes" to check your work.
   * Enter a short commit message in the textbox under the "Commit changes" heading.
   * Click the "Commit changes" button.
