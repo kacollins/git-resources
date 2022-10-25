@@ -18,6 +18,8 @@ Learn Git one command at a time: <a href="http://gitready.com/">GitReady</a>
 
 Read this helpful blog post: <a href="https://dev.to/summersetwren/what-is-git-cji">What is Git?</a>
 
+To modify markdown files in a terminal outside of GitHub, you can use Git Bash. Download here: https://git-scm.com/download/win  
+
 # Information on GitHub
 
 Here's a good series of short videos on GitHub: <a href="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github/"> How to contribute to open source projects</a>
