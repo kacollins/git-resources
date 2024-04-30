@@ -18,7 +18,7 @@ Learn Git one command at a time: <a href="http://gitready.com/">GitReady</a>
 
 Read this helpful blog post: <a href="https://dev.to/summersetwren/what-is-git-cji">What is Git?</a>
 
-To modify markdown files in a terminal outside of GitHub, you can use Git Bash. Download here: https://git-scm.com/download/win  
+To modify markdown files in a terminal outside of GitHub, you can use Git Bash. Download here: <a href= "https://git-scm.com/download/win">Git Bash</a>  
 
 # Information on GitHub
 
@@ -32,7 +32,7 @@ GitHub Pages tutorial: <a href="https://learntocodewith.me/tutorials/github-page
 
 Here is a git cheat sheet distributed by GitHub: <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">GitHub Cheatsheet!</a>
 
-Top 5 Free Courses to Learn Git and GitHub — Best of Lot: <a href="https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0">Free GitHub courses</a>
+Top 5 Free Courses to Learn Git and GitHub — Best of Lot: <a href="https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0">Free GitHub courses(2018)</a>
   
 
 
