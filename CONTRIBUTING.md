@@ -25,3 +25,5 @@
   * Once everything is set click Create Pull Requests
 
 ### You could start by adding some links to the Readme or by improving these instructions!
+ This link to a video verbalizes the instructions very well for any of you who prefer visually learning.
+<a href ="https://www.youtube.com/watch?v=dLRA1lffWBw">Watch This!!!</a>.
