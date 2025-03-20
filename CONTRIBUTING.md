@@ -1,7 +1,7 @@
 ### Here's how to contribute:
 * Create a GitHub account if you don't have one. <a href="https://github.com/signup">Sign up here</a>.
 * Fork the repository (<a href="https://help.github.com/articles/fork-a-repo/">see GitHub's help guide</a>).
-  * Click the Fork button in the upper right corner of the screen.
+  * Click the Fork button (pencil icon) in the upper right corner of the screen.
   * This will copy the repo to your account and you will then be in your copy of the repository.
   * If you would like to make changes to markdown files and code in a terminal of your choice outside of GitHub, download Git Bash here: https://git-scm.com/download/win
 * **Make some changes.**
